@@ -1,9 +1,12 @@
 import React from 'react';
+import Announce from '../components/Announce';
 
 function Home() {
     return (
-        <div>I am home page</div>
+        <div>
+            <Announce/>
+        </div>
     )
 }
 
-export default Home
+export default Home;
