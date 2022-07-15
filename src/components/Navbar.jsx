@@ -14,13 +14,10 @@ const Navbar = () => {
                         <Search className='' style={{fontSize: '16px'}}/>
                     </div>
                 </div> 
-
-
-
-
-
-
-                <div>2</div>
+                {/* Logo */}
+                <div className='center flex-1 text-center'>
+                    <div className='logo font-bold text-lg'>Summer Kings</div>
+                </div>
                 <div>3</div>
             </div>
         </div>
