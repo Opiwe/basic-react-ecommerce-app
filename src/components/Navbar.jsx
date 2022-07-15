@@ -16,14 +16,9 @@ const Navbar = () => {
                 </div> 
                 {/* Logo */}
                 <div className='center flex-1 text-center'>
-                    <div className='logo font-bold text-lg'>Summer Kings</div>
+                    
                 </div>
-
-                {/* Right div */}
-                <div>
-                    <div>Register</div>
-                    <div>Sign in</div>
-                </div>
+                <div>3</div>
             </div>
         </div>
     );
